@@ -11,4 +11,3 @@ pet_name=input("Thanks and your pet name?\n ")
 print(city_name+pet_name + "\n")
 
 #5. Make sure the input cursor shows on a new line:
-
